@@ -24,6 +24,7 @@
                 "sha1.c",
                 "x15.c",
                 "fresh.c",
+                "lyra2z.c",
                 "sha3/sph_hefty1.c",
                 "sha3/sph_fugue.c",
                 "sha3/aes_helper.c",
@@ -50,6 +51,8 @@
                 "crypto/hash.c",
                 "crypto/aesb.c",
                 "crypto/wild_keccak.cpp",
+                "lyra2/Lyra2.c",
+                "lyra2/Sponge.c"
             ],
             "include_dirs": [
                 "crypto",

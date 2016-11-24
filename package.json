@@ -2,13 +2,9 @@
     "name": "multi-hashing",
     "version": "0.0.9",
     "main": "multihashing",
-    "author": {
-        "name": "Matthew Little",
-        "email": "zone117x@gmail.com"
-    },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-multi-hashing.git"
+        "url": "https://github.com/lustr0/node-multi-hashing.git"
     },
     "dependencies" : {
         "bindings" : "*"
