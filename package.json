@@ -22,6 +22,7 @@
         "blake",
         "shavite",
         "fugue",
-        "sha1"
+        "sha1",
+	"neoscrypt"
     ]
 }
